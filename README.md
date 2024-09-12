@@ -2,6 +2,35 @@
 
 **Autor:** Sebastián Morales
 
+**Materia:** Física
+
+---
+
+- [Actividad de Sustentación - Dinámica de Sistemas Físicos](#actividad-de-sustentación---dinámica-de-sistemas-físicos)
+  - [Introducción](#introducción)
+    - [Ecuación del sistema de suspensión](#ecuación-del-sistema-de-suspensión)
+  - [Simulación de un Sistema de Suspensión](#simulación-de-un-sistema-de-suspensión)
+    - [Efectos de Cambiar los Parámetros del Sistema](#efectos-de-cambiar-los-parámetros-del-sistema)
+    - [Aumento de la Masa](#aumento-de-la-masa)
+    - [Disminución de la Masa](#disminución-de-la-masa)
+    - [Interpretación Gráfica (Masa)](#interpretación-gráfica-masa)
+    - [Aumento de la Amortiguación](#aumento-de-la-amortiguación)
+    - [Disminución de la Amortiguación](#disminución-de-la-amortiguación)
+    - [Interpretación Gráfica (Amortiguación)](#interpretación-gráfica-amortiguación)
+    - [Aumento de la Constante del Resorte](#aumento-de-la-constante-del-resorte)
+    - [Disminución de la Constante del Resorte](#disminución-de-la-constante-del-resorte)
+    - [Interpretación Gráfica (Constante)](#interpretación-gráfica-constante)
+  - [Preguntas Frecuentes](#preguntas-frecuentes)
+    - [¿Por qué la gráfica es oscilante?](#por-qué-la-gráfica-es-oscilante)
+  - [Resumen Visual de los Efectos](#resumen-visual-de-los-efectos)
+  - [Ejemplos de Situaciones Físicas](#ejemplos-de-situaciones-físicas)
+    - [Casos Especiales](#casos-especiales)
+    - [¿Por qué las oscilaciones pueden ser irregulares?](#por-qué-las-oscilaciones-pueden-ser-irregulares)
+    - [Conclusión sobre las Oscilaciones Irregulares](#conclusión-sobre-las-oscilaciones-irregulares)
+  - [Enlace](#enlace)
+
+---
+
 ## Introducción
 
 En esta actividad, se aplicarán los principios de la Dinámica desarrollando una simulación en Python que permita visualizar y analizar fenómenos dinámicos en sistemas físicos. El sistema estudiado es el sistema de suspensión de un vehículo, el cual puede ser descrito mediante una ecuación diferencial de segundo orden:
@@ -101,3 +130,7 @@ En un coche, la amortiguación se ajusta para absorber impactos. Si la masa del 
 ### Conclusión sobre las Oscilaciones Irregulares
 
 El sistema con alta amortiguación y un resorte débil muestra oscilaciones disparejas debido a la combinación de una gran inercia, débil restauración y alta disipación de energía. Los picos irregulares en la gráfica son el resultado de esta dinámica.
+
+## Enlace
+
+[Video explicativo: https://youtu.be/J4KTSNvGeCg](https://youtu.be/J4KTSNvGeCg)
