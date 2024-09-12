@@ -56,7 +56,7 @@ def update_graph(*args):
     canvas.draw()
 
     # Actualizar la fórmula
-    equation_text.set(f"{m} * x''(t) + {c} * x'(t) + {k} * x(t) = F(t) (Con amortiguación)\n"
+    equation_text.set(f"{m} * x''(t) + {c} * x'(t) + {k} * x(t) = F(t) (Con amortiguación)\n\n"
                       f"{m} * x''(t) + {k} * x(t) = F(t) (Sin amortiguación)")
 
 # Función para restablecer los valores por defecto
