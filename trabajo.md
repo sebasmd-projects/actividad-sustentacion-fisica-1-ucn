@@ -37,7 +37,7 @@ En este ejemplo, la fuerza externa **F(t)** es una función sinusoidal. La gráf
 1. El sistema responde más rápidamente, alcanzando el desplazamiento máximo más pronto.
 2. Las oscilaciones son más rápidas y el sistema se estabiliza más rápidamente.
 
-### Interpretación Gráfica
+### Interpretación Gráfica (Masa)
 
 - **Aumento de la masa**: la gráfica mostrará oscilaciones más suaves y lentas.
 - **Disminución de la masa**: las oscilaciones serán más rápidas y el sistema responderá de manera más ágil.
@@ -52,7 +52,7 @@ En este ejemplo, la fuerza externa **F(t)** es una función sinusoidal. La gráf
 1. El sistema pierde energía más lentamente, permitiendo que las oscilaciones duren más tiempo.
 2. Si no hay amortiguación (c=0), el sistema oscilará indefinidamente.
 
-### Interpretación Gráfica
+### Interpretación Gráfica (Amortiguación)
 
 - **Aumento de la amortiguación**: las oscilaciones disminuirán rápidamente en la gráfica.
 - **Disminución de la amortiguación**: las oscilaciones persistirán por más tiempo.
@@ -67,7 +67,7 @@ En este ejemplo, la fuerza externa **F(t)** es una función sinusoidal. La gráf
 1. El resorte es más flexible, generando oscilaciones más lentas.
 2. El desplazamiento máximo puede ser mayor debido a la menor fuerza restauradora.
 
-### Interpretación Gráfica
+### Interpretación Gráfica (Constante)
 
 - **Aumento de la constante del resorte**: las oscilaciones serán más rápidas y de menor amplitud.
 - **Disminución de la constante del resorte**: las oscilaciones serán más amplias y lentas.
